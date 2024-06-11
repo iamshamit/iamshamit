@@ -1,6 +1,6 @@
 ![GIF](/Assets/Banner.gif)
 
-## Hello!
+## Hello There!
 
 - I'm a passionate Software/Web Developer from India. Currently pursuing my Btech Degree.
 
