@@ -8,16 +8,7 @@
 
 ## Let's Connect
 
-<div style="display: inline-block;">
-
-<a href="link/to/twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-
-<a href="link/to/linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<a href="link/to/website" target="_blank"><img src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="Personal Website"></a>
-
-<a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
-
-</div>
-
-
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/itzshamit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamit-mishra-6a0725267/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](link/to/website)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shamitmishra22@gmail.com)
