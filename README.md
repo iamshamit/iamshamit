@@ -10,5 +10,5 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/itzshamit)&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamit-mishra-6a0725267/)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](shamit-portfolio.in.net)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://shamit-portfolio.in.net)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shamitmishra22@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
